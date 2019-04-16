@@ -1,0 +1,23 @@
+{
+    "@context": "http://www.w3.org/ns/csvw",
+    "dc:title": "Кем выдан паспорт",
+    "dc:description": "Справочник кодов подразделений и соответствующих им названий.",
+    "dc:references": "https://dadata.ru/suggestions/outward/fms_unit/",
+    "dc:creator": "DaData.ru",
+    "dc:issued": "2019-04-04",
+    "dc:language": "ru",
+    "dc:license": "CC BY-SA 4.0",
+    "url": "fms_unit.csv",
+    "tableSchema": {
+        "columns": [
+            {
+                "titles": "code",
+                "dc:description": "Код подразделения"
+            },
+            {
+                "titles": "name",
+                "dc:description": "Название в творительном падеже («кем выдан?»)"
+            }
+        ]
+    }
+}
