@@ -2,7 +2,7 @@
 
 Справочник «кем выдан паспорт» содержит коды подразделений и соответствующие им названия в творительном падеже.
 
-Составитель: [DaData.ru](https://dadata.ru/suggestions/outward/fms_unit/)
+Составитель: [DaData.ru](https://dadata.ru/suggestions/outward/fms_unit/). Если чего-то не хватает — [дайте знать](https://dadata.ru/fix/fms).
 
 Примеры использования:
 
