@@ -4,7 +4,7 @@
     "dc:description": "Справочник кодов подразделений и соответствующих им названий.",
     "dc:references": "https://dadata.ru/suggestions/outward/fms_unit/",
     "dc:creator": "DaData.ru",
-    "dc:issued": "2021-12-30",
+    "dc:issued": "2022-05-16",
     "dc:language": "ru",
     "dc:license": "CC BY-SA 4.0",
     "url": "fms_unit.csv",
@@ -17,7 +17,11 @@
             {
                 "titles": "name",
                 "dc:description": "Название в творительном падеже («кем выдан?»)"
-            }
+            },
+	    {
+		"titles": "zcode",
+                "dc:description": "Код подразделения (Для загранпаспортов нового образца)"
+	    }
         ]
     }
 }
