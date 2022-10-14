@@ -4,7 +4,7 @@
     "dc:description": "Справочник кодов подразделений и соответствующих им названий.",
     "dc:references": "https://dadata.ru/suggestions/outward/fms_unit/",
     "dc:creator": "DaData.ru",
-    "dc:issued": "2022-07-19",
+    "dc:issued": "2022-10-14",
     "dc:language": "ru",
     "dc:license": "CC BY-SA 4.0",
     "url": "fms_unit.csv",
